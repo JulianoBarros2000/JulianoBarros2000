@@ -22,36 +22,6 @@ I'm a Full-Stack Developer passionate about technology, innovation and building 
 
 ---
 
-## Technologies & Tools
-
-**Frontend**
-
-
-
-
-\
-
-
-**Backend**
-
-
-\
-
-
-**Databases**
-
-\
-
-
-**Tools & Other Interests**
-
-
-
-\
-
-
----
-
 ## &#x20;Featured Projects | Projectos em Destaque
 
 ### Freezone
