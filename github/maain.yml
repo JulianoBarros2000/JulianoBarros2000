@@ -1,0 +1,22 @@
+
+name: VEXA GitHub Workflow
+
+on:
+  push:
+    branches:
+      - main
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Obter código
+        uses: actions/checkout@v4
+
+      - name: Verificar ficheiros
+        run: |
+          echo "Workflow iniciado!"
+          echo "Repositório actualizado."
