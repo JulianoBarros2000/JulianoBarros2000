@@ -1,3 +1,11 @@
+
+<p align="center">
+  <img
+    src="assets/banner.png"
+    alt="Juliano Barros - Full-Stack Developer"
+    width="100%"
+  />
+</p>
 # Olá! Sou Juliano Barros&#x20;
 
 ### Full-Stack Developer | Software Developer
