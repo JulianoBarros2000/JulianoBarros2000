@@ -6,7 +6,6 @@
     width="100%"
   />
 </p>
-# Olá! Sou Juliano Barros&#x20;
 
 ### Full-Stack Developer | Software Developer
 
